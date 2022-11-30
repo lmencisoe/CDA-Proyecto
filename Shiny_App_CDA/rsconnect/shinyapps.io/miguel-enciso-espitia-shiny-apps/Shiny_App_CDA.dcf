@@ -1,0 +1,13 @@
+name: Shiny_App_CDA
+title: Shiny_App_CDA
+username:
+account: miguel-enciso-espitia-shiny-apps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7755449
+bundleId: 6565986
+url: https://miguel-enciso-espitia-shiny-apps.shinyapps.io/Shiny_App_CDA/
+when: 1669699164.9215
+lastSyncTime: 1669699164.92155
+asMultiple: FALSE
+asStatic: FALSE
